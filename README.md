@@ -15,5 +15,5 @@ npm install
 npm start
 ```
 
-~/bin/conig.js contains settings for: ```URI and PORTS
+~/bin/conig.js contains settings for: URI and PORTS
 ```
