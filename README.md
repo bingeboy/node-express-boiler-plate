@@ -17,3 +17,7 @@ npm start
 
 ~/bin/conig.js contains settings for: URI and PORTS
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bingeboy/node-express-boiler-plate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
